@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Acridotheres/.github/main/profile/logo-full.png">
+  <a href="https://acridotheres.com/download">
+    <img src="https://raw.githubusercontent.com/acridotheres/.github/main/profile/Screenshot%202024-08-15%20at%2014-18-03%20Home%20Acridotheres.png">
+  </a>
 </p>
